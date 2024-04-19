@@ -1,8 +1,8 @@
-## Hi, I'm German Rode 👋
+### Hi, I'm German Rode 👋
 
-### 👀 I’m interested in DS, DA and ML
+#### 👀 I’m interested in DS, DA and ML
 
-## Connect with me:
+#### Connect with me:
 * telegram - @german_rode
 * WhatApp - +7 (911) 838-05-36
 
