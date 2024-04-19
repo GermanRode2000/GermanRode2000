@@ -2,6 +2,8 @@
 
 #### 👀 I’m interested in DS, DA and ML
 
+---------------------------------------
+
 #### Connect with me:
 * telegram - @german_rode
 * WhatApp - +7 (911) 838-05-36
