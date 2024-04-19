@@ -1,6 +1,10 @@
-- 👋 Hi, I’m German
-- 👀 I’m interested in DS, DA and ML
-- 📫 How to reach me: telegram - @german_rode
+## Hi, I'm German Rode 👋
+
+### 👀 I’m interested in DS, DA and ML
+
+## Connect with me:
+* telegram - @german_rode
+* WhatApp - +7 (911) 838-05-36
 
 <!---
 GermanRode2000/GermanRode2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
