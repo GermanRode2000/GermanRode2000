@@ -4,7 +4,7 @@
 ---------------------------------------
 
 ### Контакты:
-* telegram - @german_rode[https://t.me/german_rode]
+* telegram - [@german_rode](https://t.me/german_rode)
 * WhatApp - +7 (911) 838-05-36
 
 <!---
