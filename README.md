@@ -26,6 +26,12 @@
 * Jupyter
 * PostgreSQL 
 
+------------------------------------------------
+
+### Портфолио и проекты
+
+* [Курс Data Science в Яндекс Практикум](https://github.com/GermanRode2000/yandex_practicum/tree/main)
+
 <!---
 GermanRode2000/GermanRode2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
