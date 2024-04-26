@@ -16,7 +16,7 @@
 Закончил курсы "Специалист по Data Science" в Яндекс Практикуме.
 
 Основной стек:
-* python:
+* Python:
     * библиотеки для анализа данных - pandas, numpy, scipy, pySpark
     * визуализация - matplotlib, seaborn
     * библиотеки для ML - Sklearn, CatBoost, LightGBM
