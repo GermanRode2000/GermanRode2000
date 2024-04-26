@@ -1,11 +1,10 @@
 ### Hi, I'm German Rode 👋
 
-#### 👀 I’m interested in DS, DA and ML
 
 ---------------------------------------
 
-#### Connect with me:
-* telegram - @german_rode
+### Контакты:
+* telegram - @german_rode[https://t.me/german_rode]
 * WhatApp - +7 (911) 838-05-36
 
 <!---
